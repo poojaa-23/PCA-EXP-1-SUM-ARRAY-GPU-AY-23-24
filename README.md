@@ -1,6 +1,6 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>NAME: Raviprasath K</h3>
-<h3>REGISTER NO.: 212224230225</h3>
+<h3>NAME: s.pooja abirami
+<h3>REGISTER NO.:212223100041
 <h3>EX. NO</h3>
 <h3>DATE: 30/07/26</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
